@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🦭 About Me:
 
 <!--
 **lejoannac/lejoannac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! I'm Joanna, an engineering student at UBC. Welcome to my GitHub landing Page.
+
+🔭 I’m currently working on my personal portfolio website and bloompy, an omnidirectional shape-shifting robot.
+📫 Reach me at: jxcai534@gmail.com
