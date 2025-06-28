@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Hi! I'm Joanna, an engineering student at UBC. Welcome to my GitHub landing Page.
 
-- 🔭 I’m currently working on my personal portfolio website and bloompy, an omnidirectional shape-shifting robot.
-- 📫 Reach me at: jxcai534@gmail.com
+🔭 I’m currently working on my personal portfolio website and bloompy, an omnidirectional shape-shifting robot <br>
+📫 Reach me at: jxcai534@gmail.com
