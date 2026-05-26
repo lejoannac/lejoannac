@@ -1,7 +1,7 @@
 ## 🦭 Hi! I'm Joanna
 
 🧠 Engineering student at UBC <br>
-🔭 I’m currently working on my personal portfolio website and bloompy, an omnidirectional shape-shifting robot <br>
+🔭 I’m currently working on my personal portfolio website and LiDAR projects for Baja SAE. <br>
 📫 Reach me at: jxcai534@gmail.com
 
 ## 💻 Tech Stack:
